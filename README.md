@@ -93,3 +93,11 @@ This relational structure enables accurate aggregation and filtering across the 
 
 <img width="1178" height="1383" alt="image" src="https://github.com/user-attachments/assets/52ce7f8f-3249-4990-8ac6-3a10a506c49f" />
 
+---
+
+## Author
+
+**Şevval Özlem**
+
+Data Engineer interested in **Data Science, Data Analytics, and AI applications**.
+
